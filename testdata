@@ -24,3 +24,16 @@ Prompt: Please synthesize all economic factors and fed bulletins, and predict im
 
 Based on the information provided, the latest employment report is likely to show continued job growth and a tight labor market. The GDP grew at an annual rate of 4.8% in the first quarter of 2024, driven by increases in consumer spending, residential and nonresidential fixed investment, and state/local government spending. This economic growth suggests continued demand for workers across multiple sectors.
 However, the report also notes a decrease in private inventory investment, which could signal some slowing in certain industries like manufacturing and wholesale trade. Additionally, while not mentioned in the provided information, the Fed has been raising interest rates to combat high inflation, which could start to weigh on job growth going forward. Overall, the employment report will likely show continued job gains but potentially at a moderating pace compared to recent months
+
+
+Dot Plot: (WIP)
+Prompt: Please prdict the next FOMC participants’ assessments of appropriate monetary policy
+The median projection for the federal funds rate in 2024 is 4.6%, declining to 3.9% in 2025 and 3.1% in 2026. The longer run projection is 2.6%. Participants' projections reflect their assessments of the appropriate monetary policy path to achieve the Fed's dual mandate of maximum employment and price stability given their economic projections.[1]
+[2]
+The projections are subject to considerable uncertainty, as reflected in the wide historical error ranges for forecasts of short-term interest rates. Participants' assessments of appropriate policy depend importantly on how the economy evolves relative to their projections. If conditions differ from expectations, assessments of the appropriate federal funds rate path would change accordingly.[3]
+[4] 
+
+Prompt: How did you reach this conclusion
+
+The FOMC participants' projections for the federal funds rate path reflect their individual assessments of the appropriate monetary policy stance needed to achieve the Federal Reserve's dual mandate of maximum employment and price stability over time. Their projections take into account their outlook for key economic variables like real GDP growth, the unemployment rate, and inflation, as well as the uncertainties and risks surrounding those projections.[1]
+The federal funds rate projections aim to guide the policy rate to a level that will foster economic conditions consistent with the Fed's objectives. Participants who see upside risks to inflation or downside risks to employment may project a higher federal funds rate path, while those who see downside inflation risks or upside employment risks may project a lower rate path.
