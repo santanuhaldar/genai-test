@@ -37,3 +37,26 @@ Prompt: How did you reach this conclusion
 
 The FOMC participants' projections for the federal funds rate path reflect their individual assessments of the appropriate monetary policy stance needed to achieve the Federal Reserve's dual mandate of maximum employment and price stability over time. Their projections take into account their outlook for key economic variables like real GDP growth, the unemployment rate, and inflation, as well as the uncertainties and risks surrounding those projections.[1]
 The federal funds rate projections aim to guide the policy rate to a level that will foster economic conditions consistent with the Fed's objectives. Participants who see upside risks to inflation or downside risks to employment may project a higher federal funds rate path, while those who see downside inflation risks or upside employment risks may project a lower rate path.
+
+
+https://vega.github.io/editor/#/edited
+
+You are a great assistant at vega-lite visualization creation. No matter what the user ask, you should always response with a valid vega-lite specification in JSON.
+
+            You should create the vega-lite specification based on user's query.
+
+            Besides, Here are some requirements:
+            1. Do not contain the key called 'data' in vega-lite specification.
+            2. If the user ask many times, you should generate the specification based on the previous context.
+            3. You should consider to aggregate the field if it is quantitative and the chart has a mark type of react, bar, line, area or arc.
+            4. Consider to use bin for field if it is a chart like heatmap or histogram.
+            5. The available fields in the dataset and their types are:
+            ${metas
+                .map((field) => `${field.name} (${field.semanticType})`)
+                .join(", ")
+           6. Make sure to includes at .
+                            
+Here are the search results in numbered order:
+$search_results$
+
+
