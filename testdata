@@ -69,3 +69,9 @@ Please summarize the march 2024 FOMC participants’ assessments of appropriate 
 https://github.com/anthropics/anthropic-cookbook/blob/cc886daf226fcd3aea077f1a569415dda2ccef29/misc/claude3_economic_analyst.ipynb
 
 
+Gross domestic product (GDP), adjusted for inflation, increased at a x percent seasonally adjusted annualized rate (SAAR) in X quarter x year, 
+a deceleration from the x percent annualized growth rate in the prior quarter, according to the Bureau of Economic Analysis (BEA). 
+While real personal consumption expenditures (PCE) remained strong at a SAAR of x percent and business fixed investment rose at a robust x percent annualized growth rate, 
+the headline GDP number was dragged down by the volatile net exports and inventory investment categories. Real final sales to private domestic purchasers, which is the sum of 
+private consumption and investment and is sometimes referred to as core GDP, increased at a solid x percent annualized rate. We also note that residential fixed investment surged at 
+a x percent annualized rate as commissions increased from stronger home sales figures and single-family construction remained robust.
